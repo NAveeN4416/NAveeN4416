@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NAveeN4416
 - 👀 I’m interested in builiding Python Web Applications
 - 🌱 I’m currently learning Python Django RESTFRAMEWORK
-- 💞️ I’m looking to collaborate on 
 - 📫 Reach me on naveenkumar3a5@gmail.com 9160318816
 
 <!---
